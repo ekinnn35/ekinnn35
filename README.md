@@ -22,11 +22,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🔗 Connect with Me | Benimle İletişime Geçin
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+## 🔗 Connect with Me | 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ekin-%C3%B6zt%C3%BCrk-a06659249/))
 
-## 🎯 Current Project | Güncel Proje
-📌 **Fullstack Project:** Developing a simple **CRUD application** using **ASP.NET MVC**.  
-
-
-![Rick Roll](https://your-rickroll-image-url.com)
+## 🎯 Current Project |
+📌 **Fullstack Project:** Developing a simple **CRUD application** using **ASP.NET MVC**. 
