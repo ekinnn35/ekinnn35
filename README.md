@@ -22,4 +22,3 @@
 ## 🎯 Current Project |
 📌 **Fullstack Project:** Developing a simple **CRUD application** using **ASP.NET MVC**. 
 
-![Snake animation](https://raw.githubusercontent.com/ekinnn35/ekinnnn35/output/github-contribution-grid-snake-dark.svg)
