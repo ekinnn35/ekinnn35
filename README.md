@@ -1,7 +1,5 @@
 # 👋 Hey! I'm Ekin.
 
-![Fullstack Project](https://your-image-url.com)
-
 ## 🖥️ About Me
 - 🌱 I’m currently learning **Fullstack Development** and improving my coding skills.  
 - 🖥️ I’m working on my first **Fullstack project**.  
